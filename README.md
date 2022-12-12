@@ -1,6 +1,8 @@
 
  Azure link - "https://nice-ocean-080c15310.2.azurestaticapps.net/"
- Demo link - ""
+ Demo link - "https://drive.google.com/file/d/1SqosTuBhvqIdHSNPm0wiZGD1bkTAt2yZ/view?usp=share_link"
+ 
+
  
  
  Hello People !
