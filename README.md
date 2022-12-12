@@ -1,4 +1,7 @@
 
+ Azure link - "https://nice-ocean-080c15310.2.azurestaticapps.net/"
+ 
+ 
  Hello People !
 
 **We** all know that we increasing urbanisation and the onset of technological revolution in e-commerce industry has benefitted a lot , bu it has caused the large number 
