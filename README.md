@@ -1,9 +1,13 @@
-
- Azure link - "https://nice-ocean-080c15310.2.azurestaticapps.net/"
+ Future Ready Talent Project
+ My website link - "https://nice-ocean-080c15310.2.azurestaticapps.net/"
  
  
  
  Demo link - "https://drive.google.com/file/d/1SqosTuBhvqIdHSNPm0wiZGD1bkTAt2yZ/view?usp=share_link"
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/67285139/208230708-424f7084-2986-4055-b5a2-3b2cf8c96df4.png)
+
  
 
  
